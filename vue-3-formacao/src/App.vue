@@ -1,11 +1,11 @@
 <script setup lang="ts">
 import Banner from "@/components/Banner.vue";
+import ConteudoPrincipal from "@/components/ConteudoPrincipal.vue";
 </script>
 
 <template>
   <Banner/>
-  <h1 class="titulo"></h1>
-
+  <ConteudoPrincipal/>
 </template>
 
 <style scoped>

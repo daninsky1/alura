@@ -1,3 +1,9 @@
+<script>
+export default {
+  name: 'Banner'
+}
+</script>
+
 <template>
   <header class="banner">
     <div class="apresentacao">
@@ -15,11 +21,7 @@
          está apoiando um celular entre seu rosto e ombro" class="foto-banner">
   </header>
 </template>
-<script>
-export default {
-  name: 'Banner'
-}
-</script>
+
 <style scoped>
 .banner {
   padding: 4rem 7.5rem;
